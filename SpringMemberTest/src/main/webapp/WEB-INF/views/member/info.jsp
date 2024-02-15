@@ -9,7 +9,7 @@
 <body>
 		<h1>회원 정보</h1>
 		
-		${resultVO } <hr>
+		
 		
 		<h2> 아이디 : ${resultVO.userid }</h2>
 		<h2> 비밀번호 : ${resultVO.userpw }</h2>
